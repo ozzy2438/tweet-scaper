@@ -1,0 +1,45 @@
+# Temel gereksinimler
+python-dotenv==1.0.0
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Web Scraping
+selenium==4.15.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+playwright==1.40.0
+
+# Veri İşleme ve Analiz
+nltk==3.8.1
+spacy==3.7.2
+transformers==4.35.2
+sentence-transformers==2.2.2
+langchain==0.0.350
+chromadb==0.4.18
+
+# Görselleştirme
+plotly==5.18.0
+seaborn==0.13.0
+matplotlib==3.8.2
+wordcloud==1.9.2
+
+# AI ve ML
+torch==2.1.1
+openai==1.3.7
+tiktoken==0.5.1
+
+# Veritabanı
+pymongo==4.6.1
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# API ve Web
+fastapi==0.104.1
+uvicorn==0.24.0
+streamlit==1.28.2
+
+# Yardımcı Araçlar
+tqdm==4.66.1
+python-dateutil==2.8.2
+pytz==2023.3.post1 

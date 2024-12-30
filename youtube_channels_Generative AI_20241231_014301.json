@@ -1,0 +1,1607 @@
+{
+  "query": "Generative AI",
+  "timestamp": "20241231_014301",
+  "channel_count": 200,
+  "channels": [
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    },
+    {
+      "url": "https://www.youtube.com/@Computerphile",
+      "handle": "@Computerphile",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "A new paper suggests diminishing returns from larger and larger generative AI models. Dr Mike Pound discusses. The Paper (No ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheAlanTuringInstituteUK",
+      "handle": "@TheAlanTuringInstituteUK",
+      "name": "",
+      "subscribers": 632,
+      "views": 632,
+      "Description": "With their ability to generate human-like language and complete a variety of tasks, generative AI has the potential to revolutionise ..."
+    },
+    {
+      "url": "https://www.youtube.com/@bigthink",
+      "handle": "@bigthink",
+      "name": "",
+      "subscribers": 720,
+      "views": 720,
+      "Description": "Eric Siegel has been in the AI field since 1991. He's “horrified” by the AI hype bubble, but not for the reason you may think."
+    },
+    {
+      "url": "https://www.youtube.com/@SimplilearnOfficial",
+      "handle": "@SimplilearnOfficial",
+      "name": "",
+      "subscribers": 1,
+      "views": 14,
+      "Description": "Purdue - Applied Generative AI Specialization ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Google",
+      "handle": "@Google",
+      "name": "",
+      "subscribers": 391,
+      "views": 391,
+      "Description": "Ready to get started with generative AI? Here are the 5 must-knows for teens and parents to learn how to use it responsibly."
+    },
+    {
+      "url": "https://www.youtube.com/@TheEconomist",
+      "handle": "@TheEconomist",
+      "name": "",
+      "subscribers": 199,
+      "views": 199,
+      "Description": "Generative AI is the technology behind the wave of new online tools used by millions around the world. As the technology is ever ..."
+    },
+    {
+      "url": "https://www.youtube.com/@AWSEventsChannel",
+      "handle": "@AWSEventsChannel",
+      "name": "",
+      "subscribers": 3,
+      "views": 39,
+      "Description": "AWS GenAI Developer Day, San Francisco GenAI Loft, December 15th 2024 Speaker: Mike Chambers, Senior Developer ..."
+    },
+    {
+      "url": "https://www.youtube.com/@henrikkniberg",
+      "handle": "@henrikkniberg",
+      "name": "",
+      "subscribers": 2,
+      "views": 25,
+      "Description": "Basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone. Covers questions like What ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "handle": "@googlecloudtech",
+      "name": "",
+      "subscribers": 1,
+      "views": 19,
+      "Description": "What is Generative AI and how does it work? What are common applications for Generative AI? Watch this video to learn all about ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 1,
+      "views": 11,
+      "Description": "How are technologies like ChatGPT created? And what does the future hold for AI language models? This talk was filmed at the ..."
+    },
+    {
+      "url": "https://www.youtube.com/@KICampus",
+      "handle": "@KICampus",
+      "name": "",
+      "subscribers": 200,
+      "views": 200,
+      "Description": "You've probably heard of ChatGPT, Midjourney, prompts and deepfakes. But what exactly is \"generative AI\"? That's what you'll ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 796,
+      "views": 796,
+      "Description": "Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), ..."
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 1,
+      "views": 1,
+      "Description": "Generative AI has stunned the world with its ability to create realistic images, code, and dialogue. Here, IBM expert Kate Soule ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ByteByteGo",
+      "handle": "@ByteByteGo",
+      "name": "",
+      "subscribers": 92,
+      "views": 92,
+      "Description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ..."
+    },
+    {
+      "url": "https://www.youtube.com/@googlecloud",
+      "handle": "@googlecloud",
+      "name": "",
+      "subscribers": 350,
+      "views": 350,
+      "Description": "What is generative AI? Not sure where to begin? Check out this short course! We'll take you through the basics of generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@ad_academy",
+      "handle": "@ad_academy",
+      "name": "",
+      "subscribers": 222,
+      "views": 222,
+      "Description": "Roadmap to Generative AI in 2025 Ready to master Generative AI and land your dream job with an impressive salary?"
+    },
+    {
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "handle": "@IBMTechnology",
+      "name": "",
+      "subscribers": 73,
+      "views": 73,
+      "Description": "AI powered tools have been used for decades, but the recent breakthroughs in generative ai have pushed the topic front and ..."
+    },
+    {
+      "url": "https://www.youtube.com/@TheRoyalInstitution",
+      "handle": "@TheRoyalInstitution",
+      "name": "",
+      "subscribers": 529,
+      "views": 529,
+      "Description": "AI can now generate human-like language and artwork - but what other doors might it open in future? And how can we harness AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Oracle",
+      "handle": "@Oracle",
+      "name": "",
+      "subscribers": 173,
+      "views": 173,
+      "Description": "The question of the year has certainly been: What is Generative Artificial Intelligence, or AI? But more than that, organizations are ..."
+    },
+    {
+      "url": "https://www.youtube.com/@CNBC",
+      "handle": "@CNBC",
+      "name": "",
+      "subscribers": 500,
+      "views": 500,
+      "Description": "For decades, Amazon has set the standard for fast package delivery. When Prime launched in 2005, two-day shipping was ..."
+    },
+    {
+      "url": "https://www.youtube.com/@sahilandsarra",
+      "handle": "@sahilandsarra",
+      "name": "",
+      "subscribers": 323,
+      "views": 323,
+      "Description": "NVIDIA AI Learning Essential Courses: https://nvda.ws/4cWiGJi NVIDIA Gen AI/LLM Learning Path: https://nvda.ws/4dUvt0c ..."
+    },
+    {
+      "url": "https://www.youtube.com/@Analyticsvidhya",
+      "handle": "@Analyticsvidhya",
+      "name": "",
+      "subscribers": 2,
+      "views": 28,
+      "Description": "Want to become a Generative AI Expert and lead the AI revolution in 2025? This video lays out the ultimate Generative AI ..."
+    },
+    {
+      "url": "https://www.youtube.com/@NVIDIA",
+      "handle": "@NVIDIA",
+      "name": "",
+      "subscribers": 737,
+      "views": 737,
+      "Description": null
+    }
+  ]
+}
